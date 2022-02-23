@@ -75,20 +75,3 @@ npx hardhat test
  ```
 
 ---
-
-### Last ETH Gas Reporter
-
----
-
-- Simulation for basic methods
-
-![](./gasreporter.png)
-
----
-
-### Last Contract Size Reporter
-
----
-![](./sizereporter.png)
-
----
