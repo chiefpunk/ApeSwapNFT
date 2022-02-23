@@ -16,10 +16,6 @@ The app is running on Binance Smart Chain testnet, so make sure you have TBNB in
 - Mint page
   
   On this page, you should be able to mint the token that's yet avaiable to claim. Once the transaction is successful, go to the home page to check you got the NFT you requested.
-  
-- About page
-
-  <img width="1214" alt="CleanShot 2021-11-26 at 12 40 21@2x" src="https://user-images.githubusercontent.com/48500079/143616179-49724a23-e59e-4940-af70-b1feb645efe0.png">
 
 
 ## Tech stack
